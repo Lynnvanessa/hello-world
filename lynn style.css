@@ -1,10 +1,14 @@
 h1{
   font-size:45px;
   color:blue;
+  text-align: right;
+  text-transform: uppercase;
+  background-color: black;
 }
 p{
   font-size:20px;
   line-height:25px;
   color:red;
   text-align: center;
+  background-color: black;
 }
